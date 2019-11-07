@@ -2,8 +2,8 @@
 Contributors: kyriejpn
 Tags: hashtag, hashtags, taglink,seo,meta,tags,tag,instagram,notemu
 Requires at least: 5.0.4
-Tested up to: 5.1.1
-Stable tag: 0.0.3
+Tested up to: 5.3 RC4
+Stable tag: 0.0.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Requires PHP: 7.0.0
